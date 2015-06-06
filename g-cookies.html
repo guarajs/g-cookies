@@ -50,6 +50,9 @@
             Polymer({
                 byName: function(name) {
                     return _cookies.getItem(name);
+                },
+                add: function(name, value) {
+                    return _cookies.setItem(name, value);
                 }
             });
         }());
