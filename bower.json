@@ -1,5 +1,6 @@
 {
   "name": "g-cookies",
+  "main": "NoMain",
   "version": "1.0.0",
   "authors": [
     "Leandro Cruz <leandro.saad@gmail.com>"
